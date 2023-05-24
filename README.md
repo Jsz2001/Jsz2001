@@ -17,7 +17,7 @@
 
 - :man_technologist: I'm interested in backend development and testing.
 
-- 🌱 I’m currently learning Discrete Structures and Databases
+- 🌱 I’m currently learning API creations and databases
 
 - :mailbox:How to reach me: jeff.s.zheng@vanderbilt.edu
 
