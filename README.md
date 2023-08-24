@@ -18,7 +18,7 @@
 
 - :man_technologist: I'm interested in backend development and testing.
 
-- 🌱 I’m currently learning API creations and databases
+- 🌱 I’m currently learning RUST & Web Development
 
 - :mailbox:How to reach me: jeff.s.zheng@vanderbilt.edu
 
